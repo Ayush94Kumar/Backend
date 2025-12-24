@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "D": "^1.0.0",
-    "nodemon": "^3.1.11"
+    "nodemon": "^3.1.11",
+    "pretier": "^0.0.1"
   }
 }
